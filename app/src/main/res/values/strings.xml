@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zomato Search Api</string>
+    <string name="issues_error">Error in fetching</string>
+    <string name="check_internet_connection">Please check your internet connection</string>
+</resources>
